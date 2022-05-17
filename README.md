@@ -1,6 +1,6 @@
 # Anomaly_Detection
 A novel methodology to detect anomalies in a non-stationary time series
-### Contributor: Abhishek Mukherjee
+### Sole Contributor: Abhishek Mukherjee
 ### Queries or concerns: abhi0787@gmail.com
 
 # If found useful consider donating to: 
